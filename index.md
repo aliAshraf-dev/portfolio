@@ -7,7 +7,7 @@ title: Ali Ashraf
 
 Hello! I am Ali Ashraf, an experienced Android Developer. This site showcases my projects and skills.
 
-![My Profile Image]({{ site.baseurl }}/assets/profile.jpg)
+![My Profile Image]({{ site.url }}/assets/profile.jpg)
 
 ## About Me
 I specialize in building robust Android applications using Java and Kotlin. With a solid understanding of Android SDK, Firebase, and modern architectures like MVVM, I strive to deliver high-quality, user-friendly mobile experiences.

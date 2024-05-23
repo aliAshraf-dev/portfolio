@@ -1,8 +1,8 @@
 title: "Senior Android Developer"
 description: "Showcasing my Android development projects and skills"
 theme: jekyll-theme-cayman
-#url: "https://yourusername.github.io" # Update with your GitHub Pages URL
-#baseurl: "" # Leave this empty unless your site is in a subdirectory
+url: "https://aliashraf-dev.github.io/portfolio/" # Update with your GitHub Pages URL
+baseurl: "" # Leave this empty unless your site is in a subdirectory
 
 author:
   name: "Ali Ashraf"
