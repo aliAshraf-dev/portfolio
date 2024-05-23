@@ -7,7 +7,7 @@ title: Ali Ashraf
 
 Hello! I am an Android Developer. This site showcases my projects and skills.
 
-![My Profile Image]({{ site.url }}/assets/profile.jpg)
+![My Profile Image]({{ site.url }}/assets/profile.png)
 
 ## About Me
 I am experienced in Java, Kotlin, and Android development...
