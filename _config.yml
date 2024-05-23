@@ -1,9 +1,10 @@
 # Site settings
 title: "Senior Android Developer"
 description: "Showcasing my Android development projects and skills"
+show_downloads: true
 theme: jekyll-theme-cayman
-url: "https://aliashraf-dev.github.io/portfolio/" # Update with your GitHub Pages URL
-baseurl: "" # Leave this empty unless your site is in a subdirectory
+#url: "https://aliashraf-dev.github.io/portfolio/" # Update with your GitHub Pages URL
+#baseurl: "" # Leave this empty unless your site is in a subdirectory
 
 # Author settings
 author:
