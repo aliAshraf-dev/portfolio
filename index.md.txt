@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: Ali Ashraf
 ---
 
 # Welcome to My Android Developer Portfolio
 
 Hello! I am an Android Developer. This site showcases my projects and skills.
 
-![My Profile Image]({{ site.baseurl }}/assets/profile.jpg)
+![My Profile Image]({{ site.url }}/assets/profile.jpg)
 
 ## About Me
 I am experienced in Java, Kotlin, and Android development...
