@@ -1,10 +1,5 @@
 title: Ali Ashraf
+logo: /assets/profile.png
 description: Senior Android Developer
+show_downloads: true
 theme: jekyll-theme-cayman
-url: ""
-baseurl: ""
-
-author:
-  name: Your Name
-  email: sifyanali739@gmail.com
-  avatar: /assets/profile.jpg
