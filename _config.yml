@@ -3,3 +3,8 @@ logo: /assets/img/img_profile.png
 description: Senior Android Developer
 show_downloads: true
 theme: jekyll-theme-cayman
+
+author:
+  name: Your Name
+  email: your-email@example.com
+  avatar: /assets/profile.jpg
