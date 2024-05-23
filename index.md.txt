@@ -5,18 +5,31 @@ title: "Ali Ashraf"
 
 # Welcome to My Android Developer Portfolio
 
-Hello! I am an Android Developer. This site showcases my projects and skills.
+Hello! I am Ali Ashraf, an experienced Android Developer. This site showcases my projects and skills.
 
-![My Profile Image]({{ site.url }}/assets/profile.png)
+![My Profile Image]({{ site.baseurl }}/assets/profile.jpg)
 
 ## About Me
-I am experienced in Java, Kotlin, and Android development...
+I specialize in building robust Android applications using Java and Kotlin. With a solid understanding of Android SDK, Firebase, and modern architectures like MVVM, I strive to deliver high-quality, user-friendly mobile experiences.
+
+## Skills
+- Java
+- Kotlin
+- Android SDK
+- Firebase
+- MVVM
+- REST APIs
 
 ## Projects
-- [Project One](https://github.com/yourusername/project-one): Description of project one.
-- [Project Two](https://github.com/yourusername/project-two): Description of project two.
+
+### [Project One](https://github.com/yourusername/project-one)
+A detailed description of Project One. Highlight the technologies used, key features, and the impact or outcome of the project.
+
+### [Project Two](https://github.com/yourusername/project-two)
+A detailed description of Project Two. Highlight the technologies used, key features, and the impact or outcome of the project.
 
 ## Contact
+Feel free to reach out to me through the following channels:
 - Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - GitHub: [{{ site.social.github }}]({{ site.social.github }})
 - LinkedIn: [{{ site.social.linkedin }}]({{ site.social.linkedin }})

@@ -1,40 +1,32 @@
-# Site settings
 title: "Senior Android Developer"
 description: "Showcasing my Android development projects and skills"
-show_downloads: true
 theme: jekyll-theme-cayman
-#url: "https://aliashraf-dev.github.io/portfolio/" # Update with your GitHub Pages URL
+#url: "https://yourusername.github.io" # Update with your GitHub Pages URL
 #baseurl: "" # Leave this empty unless your site is in a subdirectory
 
-# Author settings
 author:
-  name: "Your Name"
+  name: "Ali Ashraf"
   email: "your-email@example.com"
-  avatar: "/assets/profile.png" # Ensure this path is correct and the image is in the assets directory
+  avatar: "/assets/profile.jpg" # Ensure this path is correct and the image is in the assets directory
 
-# Social links
 social:
   github: "https://github.com/yourusername"
   linkedin: "https://www.linkedin.com/in/yourusername/"
   twitter: "https://twitter.com/yourusername"
   stackoverflow: "https://stackoverflow.com/users/youruserid/yourusername"
 
-# Plugins (optional, for additional functionality)
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
 
-# Configuration for Jekyll Feed plugin
 feed:
   path: "feed.xml"
 
-# Custom settings for your site (optional)
 custom:
   skills:
     - "Java"
@@ -51,10 +43,8 @@ custom:
       description: "Description of project two."
       url: "https://github.com/yourusername/project-two"
 
-# Markdown processor settings (optional)
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Permalinks
 permalink: pretty
