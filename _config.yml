@@ -7,8 +7,8 @@ baseurl: "" # Leave this empty unless your site is in a subdirectory
 
 # Author settings
 author:
-  name: "Ali Ashraf"
-  email: "sifyanali739@gmail.com"
+  name: "Your Name"
+  email: "your-email@example.com"
   avatar: "/assets/profile.jpg" # Ensure this path is correct and the image is in the assets directory
 
 # Social links
