@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ali Ashraf
+title: "Ali Ashraf"
 ---
 
 # Welcome to My Android Developer Portfolio
