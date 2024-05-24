@@ -3,14 +3,12 @@ layout: default
 title: Ali Ashraf
 ---
 
-# Welcome to My Android Developer Portfolio
-
-Hello! I am Ali Ashraf, an experienced Android Developer. This site showcases my projects and skills.
+# Senior Android Developer
 
 ![My Profile Image](https://github.com/aliAshraf-dev/portfolio/blob/main/assets/profile.png)
 
 ## About Me
-I specialize in building robust Android applications using Java and Kotlin. With a solid understanding of Android SDK, Firebase, and modern architectures like MVVM, I strive to deliver high-quality, user-friendly mobile experiences.
+I specialize in building robust Android applications using Java and Kotlin. With a solid understanding of Android SDK and modern architectures like MVVM, I strive to deliver high-quality, user-friendly mobile experiences.
 
 ## Skills
 - Java
