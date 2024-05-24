@@ -5,7 +5,7 @@ title: Ali Ashraf
 
 # Senior Android Developer
 
-![My Profile Image](https://github.com/aliAshraf-dev/portfolio/blob/main/assets/profile.png)
+![My Profile Image!](assets/profile.png)
 
 ## About Me
 I specialize in building robust Android applications using Java and Kotlin. With a solid understanding of Android SDK and modern architectures like MVVM, I strive to deliver high-quality, user-friendly mobile experiences.
