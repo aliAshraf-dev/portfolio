@@ -7,7 +7,7 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) <span style="vertical-align: middle; font-size: smaller; float: right;">(Xeven Solutions (Pvt) Ltd.)</span>
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | <span style="vertical-align: middle; font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** Android Developer
 
 - **Technologies:** Kotlin, MVVM, Room, Firebase Push Notifications
@@ -21,7 +21,7 @@ I specialize in building robust Android applications using Java and Kotlin. With
   - Implemented efficient video storage and retrieval system using AWS S3 SDK. Enhanced user experience with intuitive UI and smooth navigation.
 
 
-### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) <span style="vertical-align: middle; font-size: smaller; float: right;">(Softech Systems (Pvt) Ltd.)</span>
+### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) | <span style="vertical-align: middle; font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 - **Role:** Android Developer
 
 - **Technologies:** Java, Android SDK, Firebase
@@ -37,7 +37,7 @@ I specialize in building robust Android applications using Java and Kotlin. With
   - Implementing secure authentication and transaction handling.
 
 
-### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) <span style="vertical-align: middle; font-size: smaller; float: right;">(Avicenna Enterprise Solutions)</span>
+### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) | <span style="vertical-align: middle; font-size: smaller;">(Avicenna Enterprise Solutions)</span>
 - **Role:** Android Developer
 
 - **Technologies:** Java, Android SDK, Firebase
