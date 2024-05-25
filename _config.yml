@@ -1,5 +1,6 @@
 title: Ali Ashraf
 #logo: assets/profile.png
-#description: Showcasing my Android development projects and skills
+description: I specialize in building robust Android applications using Java and Kotlin. With a solid understanding of Android SDK and modern architectures like MVVM, I strive to deliver high-quality, user-friendly mobile experiences.
+
 show_downloads: true
 theme: jekyll-theme-minimal
