@@ -7,8 +7,15 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | (_Xeven Solutions Pvt. Ltd._)
-- An android app that helps Contestants, Coaches & Stock Contractors organize performance notes & videos, get competition coaching, advertise live stock & manage rodeo events efficiently.
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | <br><sub>(Xeven Solutions Pvt. Ltd.)</sub>
+- Role: Lead Android Developer
+- Technologies: Java, Android SDK, SQLite, Firebase
+- Features:
+- Organize performance notes and videos for contestants, coaches, and stock contractors. Competition coaching and livestock advertising. Manage rodeo events with ease.
+- Challenges & Solutions:
+  Implemented efficient video storage and retrieval system using Firebase.
+  Enhanced user experience with intuitive UI and smooth navigation.
+
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade)
 - An android app used for trading. Provides you the feature of live Market Watch. Start investing and trading on companies listed on Pakistan Stock Exchange. Get live stock prices. Manage your portfolio.
