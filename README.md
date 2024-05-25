@@ -37,7 +37,7 @@ I specialize in building robust Android applications using Java and Kotlin. With
   - Implementing secure authentication and transaction handling.
 
 
-### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) <span style="vertical-align: middle; font-size: smaller; float: right;">(Avicenna Enterprise Solutions</span>
+### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) <span style="vertical-align: middle; font-size: smaller; float: right;">(Avicenna Enterprise Solutions)</span>
 - **Role:** Android Developer
 
 - **Technologies:** Java, Android SDK, Firebase
