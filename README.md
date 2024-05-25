@@ -7,8 +7,8 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [**Project One](https://github.com/yourusername/project-one)
+### [**Project One**](https://github.com/yourusername/project-one)
 - A detailed description of Project One. Highlight the technologies used, key features, and the impact or outcome of the project.
 
-### [**Project Two](https://github.com/yourusername/project-two)
+### [**Project Two**](https://github.com/yourusername/project-two)
 - A detailed description of Project Two. Highlight the technologies used, key features, and the impact or outcome of the project.
