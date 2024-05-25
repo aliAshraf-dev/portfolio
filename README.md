@@ -7,19 +7,47 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) <span style="vertical-align: middle; font-size: smaller; float: right;">(Xeven Solutions Pvt. Ltd.)</span>
-** - Role:** Android Developer
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) <span style="vertical-align: middle; font-size: smaller; float: right;">(Xeven Solutions (Pvt) Ltd.)</span>
+- **Role:** Android Developer
 
-- Technologies: Kotlin, MVVM, Room, Firebase Push Notifications
+- **Technologies:** Kotlin, MVVM, Room, Firebase Push Notifications
 
-- Features:
-  - Organize performance notes and videos for contestants, coaches, and stock contractors. Competition coaching and livestock advertising. Manage rodeo events with ease.
-- Challenges & Solutions:
-  - Implemented efficient video storage and retrieval system using Firebase. Enhanced user experience with intuitive UI and smooth navigation.
+- **Features:**
+  - Organize performance notes and videos for contestants, coaches, and stock contractors.
+  - Competition coaching and livestock advertising.
+  - Manage rodeo events with ease.
+
+- **Challenges & Solutions:**
+  - Implemented efficient video storage and retrieval system using AWS S3 SDK. Enhanced user experience with intuitive UI and smooth navigation.
 
 
-### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade)
-- An android app used for trading. Provides you the feature of live Market Watch. Start investing and trading on companies listed on Pakistan Stock Exchange. Get live stock prices. Manage your portfolio.
+### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) <span style="vertical-align: middle; font-size: smaller; float: right;">(Softech Systems (Pvt) Ltd.)</span>
+- **Role:** Android Developer
 
-### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application)
-- An android app based on Social media like Facebook. People can communicate with each other by adding posts including images and videos and can like, share and comment posts. Its a multi-language app that supports three languages e.g. English, Rusian, and Uzbek.
+- **Technologies:** Java, Android SDK, Firebase
+
+- **Features:**
+  - Live Market Watch feature.
+  - Investing and trading on companies listed on Pakistan Stock Exchange.
+  - Live stock prices monitoring.
+  - Portfolio management.
+
+- **Challenges & Solutions:**
+  - Ensuring real-time data updates for live stock prices.
+  - Implementing secure authentication and transaction handling.
+
+
+### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) <span style="vertical-align: middle; font-size: smaller; float: right;">(Avicenna Enterprise Solutions</span>
+- **Role:** Android Developer
+
+- **Technologies:** Java, Android SDK, Firebase
+
+- **Features:**
+  - Social media platform similar to Facebook.
+  - Posting images and videos.
+  - Like, share, and comment on posts.
+  - Multi-language support: English, Russian, Uzbek.
+
+- **Challenges & Solutions:**
+  - Implementing multi-language support without impacting performance.
+  - Ensuring seamless media upload and sharing functionality.
