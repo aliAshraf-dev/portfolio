@@ -7,7 +7,7 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | Xeven Solutions Pvt. Ltd.
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | (_Xeven Solutions Pvt. Ltd._)
 - An android app that helps Contestants, Coaches & Stock Contractors organize performance notes & videos, get competition coaching, advertise live stock & manage rodeo events efficiently.
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade)
