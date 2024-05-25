@@ -7,8 +7,8 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | <span style="vertical-align: middle; font-size: smaller; float: right;">(Xeven Solutions Pvt. Ltd.)</span>
-- Role: Android Developer
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) <span style="vertical-align: middle; font-size: smaller; float: right;">(Xeven Solutions Pvt. Ltd.)</span>
+- **Role:** Android Developer
 
 - Technologies: Kotlin, MVVM, Room, Firebase Push Notifications
 
