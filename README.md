@@ -7,9 +7,9 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | <br><sub>(Xeven Solutions Pvt. Ltd.)</sub>
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) | <sub>(Xeven Solutions Pvt. Ltd.)</sub>
 - Role: Lead Android Developer
-- Technologies: Java, Android SDK, SQLite, Firebase
+- Technologies: Kotlin, MVVM, Room, Firebase Push Notifications
 - Features:
 - Organize performance notes and videos for contestants, coaches, and stock contractors. Competition coaching and livestock advertising. Manage rodeo events with ease.
 - Challenges & Solutions:
