@@ -7,8 +7,11 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ## Projects
 
-### [Project One](https://github.com/yourusername/project-one)
-- A detailed description of Project One. Highlight the technologies used, key features, and the impact or outcome of the project.
+### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant)
+- An android app that helps Contestants, Coaches & Stock Contractors organize performance notes & videos, get competition coaching, advertise live stock & manage rodeo events efficiently.
 
-### [Project Two](https://github.com/yourusername/project-two)
-- A detailed description of Project Two. Highlight the technologies used, key features, and the impact or outcome of the project.
+### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade)
+- An android app used for trading. Provides you the feature of live Market Watch. Start investing and trading on companies listed on Pakistan Stock Exchange. Get live stock prices. Manage your portfolio.
+
+### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application)
+- An android app based on Social media like Facebook. People can communicate with each other by adding posts including images and videos and can like, share and comment posts. Its a multi-language app that supports three languages e.g. English, Rusian, and Uzbek.
