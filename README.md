@@ -21,11 +21,11 @@ I specialize in building robust Android applications using Java and Kotlin. With
   - Implemented efficient video storage and retrieval system using AWS S3 SDK. Enhanced user experience with intuitive UI and smooth navigation.
 
 ### Screenshots:
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 23%;">
-  <img src="assets/img/contestant_2.webp" alt="Screenshot 2" style="width: 23%;">
-  <img src="assets/img/contestant_3.webp" alt="Screenshot 3" style="width: 23%;">
-  <img src="assets/img/contestant_4.webp" alt="Screenshot 3" style="width: 23%;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 25%;">
+  <img src="assets/img/contestant_2.webp" alt="Screenshot 2" style="width: 25%;">
+  <img src="assets/img/contestant_3.webp" alt="Screenshot 3" style="width: 25%;">
+  <img src="assets/img/contestant_4.webp" alt="Screenshot 3" style="width: 25%;">
 </div>
 
 
