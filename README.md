@@ -22,10 +22,12 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ### Screenshots:
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 30%;">
-  <img src="assets/img/contestant_1.webp" alt="Screenshot 2" style="width: 30%;">
-  <img src="assets/img/contestant_1.webp" alt="Screenshot 3" style="width: 30%;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 23%;">
+  <img src="assets/img/contestant_2.webp" alt="Screenshot 2" style="width: 23%;">
+  <img src="assets/img/contestant_3.webp" alt="Screenshot 3" style="width: 23%;">
+  <img src="assets/img/contestant_4.webp" alt="Screenshot 3" style="width: 23%;">
 </div>
+
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) | <span style="vertical-align: middle; font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 - **Role:** Android Developer
