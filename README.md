@@ -20,6 +20,12 @@ I specialize in building robust Android applications using Java and Kotlin. With
 - **Challenges & Solutions:**
   - Implemented efficient video storage and retrieval system using AWS S3 SDK. Enhanced user experience with intuitive UI and smooth navigation.
 
+### Screenshots:
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 30%;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 2" style="width: 30%;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 3" style="width: 30%;">
+</div>
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) | <span style="vertical-align: middle; font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 - **Role:** Android Developer
