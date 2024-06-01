@@ -22,18 +22,15 @@ I specialize in building robust Android applications using Java and Kotlin. With
 
 ### Screenshots:
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 23%;">
-  <img src="assets/img/contestant_2.webp" alt="Screenshot 2" style="width: 23%;">
-  <img src="assets/img/contestant_3.webp" alt="Screenshot 3" style="width: 23%;">
-  <img src="assets/img/contestant_4.webp" alt="Screenshot 3" style="width: 23%;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 30%;">
+  <img src="assets/img/contestant_4.webp" alt="Screenshot 2" style="width: 30%;">
+  <img src="assets/img/contestant_5.webp" alt="Screenshot 3" style="width: 30%;">
 </div>
 <div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
-  <img src="assets/img/contestant_5.webp" alt="Screenshot 1" style="width: 23%;">
-  <img src="assets/img/contestant_6.webp" alt="Screenshot 2" style="width: 23%;">
-  <img src="assets/img/contestant_7.webp" alt="Screenshot 3" style="width: 23%;">
-  <img src="assets/img/contestant_8.webp" alt="Screenshot 3" style="width: 23%;">
+  <img src="assets/img/contestant_6.webp" alt="Screenshot 4" style="width: 30%;">
+  <img src="assets/img/contestant_7.webp" alt="Screenshot 5" style="width: 30%;">
+  <img src="assets/img/contestant_8.webp" alt="Screenshot 6" style="width: 30%;">
 </div>
-
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) | <span style="vertical-align: middle; font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 - **Role:** Android Developer
@@ -50,6 +47,18 @@ I specialize in building robust Android applications using Java and Kotlin. With
   - Ensuring real-time data updates for live stock prices.
   - Implementing secure authentication and transaction handling.
 
+### Screenshots:
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="assets/img/imTrade_1.webp" alt="Screenshot 1" style="width: 30%;">
+  <img src="assets/img/imTrade_2.webp" alt="Screenshot 2" style="width: 30%;">
+  <img src="assets/img/imTrade_3.webp" alt="Screenshot 3" style="width: 30%;">
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
+  <img src="assets/img/imTrade_4.webp" alt="Screenshot 4" style="width: 30%;">
+  <img src="assets/img/imTrade_5.webp" alt="Screenshot 5" style="width: 30%;">
+  <img src="assets/img/imTrade_6.webp" alt="Screenshot 6" style="width: 30%;">
+</div>
+
 
 ### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) | <span style="vertical-align: middle; font-size: smaller;">(Avicenna Enterprise Solutions)</span>
 - **Role:** Android Developer
@@ -65,3 +74,15 @@ I specialize in building robust Android applications using Java and Kotlin. With
 - **Challenges & Solutions:**
   - Implementing multi-language support without impacting performance.
   - Ensuring seamless media upload and sharing functionality.
+
+### Screenshots:
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="assets/img/uzTrip_1.webp" alt="Screenshot 1" style="width: 30%;">
+  <img src="assets/img/uzTrip_2.webp" alt="Screenshot 2" style="width: 30%;">
+  <img src="assets/img/uzTrip_3.webp" alt="Screenshot 3" style="width: 30%;">
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
+  <img src="assets/img/uzTrip_4.webp" alt="Screenshot 4" style="width: 30%;">
+  <img src="assets/img/uzTrip_5.webp" alt="Screenshot 5" style="width: 30%;">
+  <img src="assets/img/uzTrip_6.webp" alt="Screenshot 6" style="width: 30%;">
+</div>
