@@ -15,7 +15,7 @@ I specialize in building robust Android applications using <strong>Java</strong>
 
 ### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) <span style="font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
 - **Role:** Android Developer
-- **Technologies:** Kotlin, MVVM, Room, Firebase Push Notifications
+- **Technologies:** ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=) ![Room](https://img.shields.io/badge/Room-607D8B?logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 #### Features:
 - Organize performance notes and videos for contestants, coaches, and stock contractors.
@@ -27,23 +27,25 @@ I specialize in building robust Android applications using <strong>Java</strong>
 - Enhanced user experience with intuitive UI and smooth navigation.
 
 #### Screenshots:
-<div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
+<div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 30%;">
-  <img src="assets/img/contestant_4.webp" alt="Screenshot 2" style="width: 30%;">
-  <img src="assets/img/contestant_5.webp" alt="Screenshot 3" style="width: 30%;">
+  <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/contestant_4.webp" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/contestant_5.webp" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
-  <img src="assets/img/contestant_6.webp" alt="Screenshot 4" style="width: 30%;">
-  <img src="assets/img/contestant_7.webp" alt="Screenshot 5" style="width: 30%;">
-  <img src="assets/img/contestant_8.webp" alt="Screenshot 6" style="width: 30%;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="assets/img/contestant_6.webp" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/contestant_7.webp" alt="Screenshot 5" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/contestant_8.webp" alt="Screenshot 6" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
 
+---
+
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) <span style="font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
-<div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
+<div style="background-color: #e8f5e9; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
 - **Role:** Android Developer
-- **Technologies:** Java, Android SDK, Firebase
+- **Technologies:** ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 #### Features:
 - Live Market Watch feature.
@@ -57,23 +59,23 @@ I specialize in building robust Android applications using <strong>Java</strong>
 
 #### Screenshots:
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="assets/img/imTrade_1.webp" alt="Screenshot 1" style="width: 30%;">
-  <img src="assets/img/imTrade_2.webp" alt="Screenshot 2" style="width: 30%;">
-  <img src="assets/img/imTrade_3.webp" alt="Screenshot 3" style="width: 30%;">
+  <img src="assets/img/imTrade_1.webp" alt="Screenshot 1" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/imTrade_2.webp" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/imTrade_3.webp" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 <div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
-  <img src="assets/img/imTrade_4.webp" alt="Screenshot 4" style="width: 30%;">
-  <img src="assets/img/imTrade_5.webp" alt="Screenshot 5" style="width: 30%;">
-  <img src="assets/img/imTrade_6.webp" alt="Screenshot 6" style="width: 30%;">
+  <img src="assets/img/imTrade_4.webp" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/imTrade_5.webp" alt="Screenshot 5" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/imTrade_6.webp" alt="Screenshot 6" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
 
 ---
 
 ### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) <span style="font-size: smaller;">(Avicenna Enterprise Solutions)</span>
-<div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
+<div style="background-color: #fce4ec; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
 - **Role:** Android Developer
-- **Technologies:** Java, Android SDK, Firebase
+- **Technologies:** ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 #### Features:
 - Social media platform similar to Facebook.
@@ -87,13 +89,13 @@ I specialize in building robust Android applications using <strong>Java</strong>
 
 #### Screenshots:
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="assets/img/uzTrip_1.webp" alt="Screenshot 1" style="width: 30%;">
-  <img src="assets/img/uzTrip_2.webp" alt="Screenshot 2" style="width: 30%;">
-  <img src="assets/img/uzTrip_3.webp" alt="Screenshot 3" style="width: 30%;">
+  <img src="assets/img/uzTrip_1.webp" alt="Screenshot 1" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/uzTrip_2.webp" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/uzTrip_3.webp" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 <div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
-  <img src="assets/img/uzTrip_4.webp" alt="Screenshot 4" style="width: 30%;">
-  <img src="assets/img/uzTrip_5.webp" alt="Screenshot 5" style="width: 30%;">
-  <img src="assets/img/uzTrip_6.webp" alt="Screenshot 6" style="width: 30%;">
+  <img src="assets/img/uzTrip_4.webp" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/uzTrip_5.webp" alt="Screenshot 5" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/uzTrip_6.webp" alt="Screenshot 6" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
