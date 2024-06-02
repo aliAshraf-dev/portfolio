@@ -14,7 +14,6 @@ I specialize in building robust Android applications using **Java** and **Kotlin
 ## Projects
 
 ### [Contestant Center](https://play.google.com/store/apps/details?id=com.oboIdeas.contestant) <span style="font-size: smaller;">(Xeven Solutions (Pvt) Ltd.)</span>
-<div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
 - **Role:** Android Developer
 - **Technologies:** Kotlin, MVVM, Room, Firebase Push Notifications
 
@@ -38,9 +37,6 @@ I specialize in building robust Android applications using **Java** and **Kotlin
   <img src="assets/img/contestant_7.webp" alt="Screenshot 5" style="width: 30%;">
   <img src="assets/img/contestant_8.webp" alt="Screenshot 6" style="width: 30%;">
 </div>
-</div>
-
----
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) <span style="font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 <div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
