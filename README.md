@@ -6,7 +6,7 @@
 
 ## About Me
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px;">
-I specialize in building robust Android applications using **Java** and **Kotlin**. With a solid understanding of the **Android SDK** and modern architectures like **MVVM**, I strive to deliver high-quality, user-friendly mobile experiences.
+I specialize in building robust Android applications using <strong>Java</strong> and <strong>Kotlin</strong>. With a solid understanding of the <strong>Android SDK</strong> and modern architectures like <strong>MVVM</strong>, I strive to deliver high-quality, user-friendly mobile experiences.
 </div>
 
 ---
@@ -27,6 +27,7 @@ I specialize in building robust Android applications using **Java** and **Kotlin
 - Enhanced user experience with intuitive UI and smooth navigation.
 
 #### Screenshots:
+<div style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="assets/img/contestant_1.webp" alt="Screenshot 1" style="width: 30%;">
   <img src="assets/img/contestant_4.webp" alt="Screenshot 2" style="width: 30%;">
@@ -36,6 +37,7 @@ I specialize in building robust Android applications using **Java** and **Kotlin
   <img src="assets/img/contestant_6.webp" alt="Screenshot 4" style="width: 30%;">
   <img src="assets/img/contestant_7.webp" alt="Screenshot 5" style="width: 30%;">
   <img src="assets/img/contestant_8.webp" alt="Screenshot 6" style="width: 30%;">
+</div>
 </div>
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) <span style="font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
