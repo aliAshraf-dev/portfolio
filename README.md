@@ -45,6 +45,7 @@ I specialize in building robust Android applications using <strong>Java</strong>
 
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) | <span style="vertical-align: middle; font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 - **Role:** Android Developer
+
 - **Technologies:** <span style="vertical-align: middle;">![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)</span> <span style="vertical-align: middle;">![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)</span> <span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)</span>
 
 - **Features:**
@@ -75,6 +76,7 @@ I specialize in building robust Android applications using <strong>Java</strong>
 
 ### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) | <span style="vertical-align: middle; font-size: smaller;">(Avicenna Enterprise Solutions)</span>
 - **Role:** Android Developer
+
 - **Technologies:** <span style="vertical-align: middle;">![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)</span> <span style="vertical-align: middle;">![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)</span> <span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)</span>
 
 - **Features:**
