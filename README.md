@@ -1,3 +1,9 @@
+<style>
+  .site-description {
+    display: none;
+  }
+</style>
+
 # **Senior Android Developer**
 
 #### Showcasing my Android Development projects and skills
