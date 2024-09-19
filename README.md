@@ -2,6 +2,9 @@
   .site-description {
     display: none;
   }
+.footer {
+  display: none;
+}
 </style>
 
 # **Senior Android Developer**
