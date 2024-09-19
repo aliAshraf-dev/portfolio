@@ -1,8 +1,5 @@
 <style>
-  .site-description {
-    display: none;
-  },
-.footer {
+ .footer, .site-description {
   display: none;
 }
 </style>
