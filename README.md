@@ -1,8 +1,40 @@
 <style>
- .footer, .site-description {
-  display: none;
-}
+  /* Center the profile name */
+  .site-title {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Hide description and footer text */
+  .site-description, .footer, .site-footer {
+    display: none;
+  }
+  
+  /* Ensure profile picture is centered */
+  .profile-picture {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+  }
+  
+  /* Style sections to prevent text overlap */
+  .project-section {
+    margin-bottom: 30px;
+  }
+  
+  .project-section img {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 30%;
+  }
+  
+  .project-section .screenshots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
 </style>
+
 
 # **Senior Android Developer**
 
