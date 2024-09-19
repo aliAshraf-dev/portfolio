@@ -17,6 +17,13 @@ I specialize in building robust Android applications using <strong>Java</strong>
 - **Role:** Android Developer
 
 - **Technologies:** <span style="vertical-align: middle;">![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)</span> <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span> <span style="vertical-align: middle;">![Room](https://img.shields.io/badge/Room-607D8B?logo=android&logoColor=white)</span> <span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)</span>
+- **Technologies:**
+  <span style="vertical-align: middle;">![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)</span>
+  <span style="vertical-align: middle;">![MVVM](https://img.shields.io/badge/MVVM-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAFoEvFoAAAAHElEQVR42mP8/5+hP6FQ1lY7BlNMUwEAUbgD/HUQYYAAAAASUVORK5CYII=)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)</span>
+
 
 - **Features:**
   - Organize performance notes and videos for contestants, coaches, and stock contractors.
