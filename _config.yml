@@ -3,12 +3,3 @@ title: Ali Ashraf
 description: "                  "
 #show_downloads: true
 theme: jekyll-theme-minimal
-
-# Add these lines to hide the description and footer
-defaults:
-  - scope:
-      path: ""
-    values:
-      site:
-        description: ""   # Ensure this is empty
-        footer: ""       # Hide footer if supported by the theme
