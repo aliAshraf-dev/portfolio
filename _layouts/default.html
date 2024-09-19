@@ -1,42 +1,17 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<header>
+    <div class="profile-container">
+        <!-- Profile Picture -->
+        {% if site.logo %}
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
 
-    {% seo %}
-    <!-- No external CSS included -->
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
-</head>
-<body>
-<div class="wrapper">
-    <header>
-        <div style="text-align: center;">
-            <!-- Profile Picture -->
-            {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 150px; border-radius: 50%; display: block; margin: 0 auto;" />
-            {% endif %}
+        <!-- Profile Name -->
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-            <!-- Profile Name -->
-            <h1 style="display: inline-block;"><a href="{{ "/" | absolute_url }}" style="text-decoration: none; color: black;">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-            <!-- Designation and About Me -->
-            <div style="margin-top: 20px; text-align: center;">
-                <h2 style="font-size: 1.5em; margin-bottom: 10px;">{{ site.designation }}</h2> <!-- Add designation in _config.yml -->
-                <p style="font-size: 1.2em; color: #666; margin: 0 auto; width: 60%;">{{ site.description | default: "About Me content" }}</p>
-            </div>
+        <!-- Designation and About Me -->
+        <div class="about-container">
+            <h2>{{ site.designation }}</h2> <!-- You can define the 'designation' in _config.yml -->
+            <p>{{ site.description | default: "About Me content" }}</p> <!-- About Me content -->
         </div>
-    </header>
-
-    <section>
-        {{ content }}
-    </section>
-
-</div>
-<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-</body>
-</html>
+    </div>
+</header>
