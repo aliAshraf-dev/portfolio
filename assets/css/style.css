@@ -1,0 +1,15 @@
+
+.profile-container {
+  text-align: center;
+}
+
+.profile-container h1 {
+  display: inline-block;
+}
+
+.profile-container img {
+  max-width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 20px;
+}
