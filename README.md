@@ -1,7 +1,7 @@
 <style>
   .site-description {
     display: none;
-  }
+  },
 .footer {
   display: none;
 }
