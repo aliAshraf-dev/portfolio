@@ -1,13 +1,4 @@
-# **Senior Android Developer**
-
 #### Showcasing my Android Development projects and skills
-
----
-
-## About Me
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px;">
-I specialize in building robust Android applications using <strong>Java</strong> and <strong>Kotlin</strong>. With a solid understanding of the <strong>Android SDK</strong> and modern architectures like <strong>MVVM</strong>, I strive to deliver high-quality, user-friendly mobile experiences.
-</div>
 
 ---
 
