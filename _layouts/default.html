@@ -6,7 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
-  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <style>
+    .wrapper {
+      max-width: 1200px; /* Adjust as needed */
+      margin: 0 auto; /* Centers the wrapper */
+      padding: 0 15px; /* Adjust left and right padding */
+    }
+    header, section {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
   <!--[if lt IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   <![endif]-->
@@ -15,7 +25,7 @@
 <body>
 <div class="wrapper">
   <header>
-    <!-- Add a div container to wrap the profile name and image -->
+    <!-- Your header content here -->
     <div class="profile-container" style="text-align: center;">
       <h1 style="display: inline-block;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -24,10 +34,8 @@
       {% endif %}
 
       <h2 style="display: inline-block; margin-top: 10px;">Android Developer</h2>
-
     </div>
     <p style="display: inline-block;">I specialize in building robust Android applications using <strong>Java</strong> and <strong>Kotlin</strong>. With a solid understanding of the <strong>Android SDK</strong> and modern architectures like <strong>MVVM</strong>, I strive to deliver high-quality, user-friendly mobile experiences.</p>
-
 
     <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -46,8 +54,6 @@
   <section>
     {{ content }}
   </section>
-
-
 </div>
 <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
