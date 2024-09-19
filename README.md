@@ -5,8 +5,10 @@
 ---
 
 ## About Me
-<div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px;">
-I specialize in building robust Android applications using <strong>Java</strong> and <strong>Kotlin</strong>. With a solid understanding of the <strong>Android SDK</strong> and modern architectures like <strong>MVVM</strong>, I strive to deliver high-quality, user-friendly mobile experiences.
+<div style="text-align: center; padding: 15px;">
+  <img src="assets/profile.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; display: block; margin: 0 auto;">
+  <h1>Ali Ashraf</h1>
+  <p style="font-size: 1.2em; color: #333;">I specialize in building robust Android applications using <strong>Java</strong> and <strong>Kotlin</strong>. With a solid understanding of the <strong>Android SDK</strong> and modern architectures like <strong>MVVM</strong>, I strive to deliver high-quality, user-friendly mobile experiences.</p>
 </div>
 
 ---

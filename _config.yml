@@ -1,5 +1,6 @@
 title: Ali Ashraf
-#logo: assets/profile.png
-description: ""
+logo: assets/profile.png
+description: "Showcasing my Android Development projects and skills"
 #show_downloads: true
 theme: jekyll-theme-minimal
+css: "/assets/css/custom.css"
