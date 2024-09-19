@@ -52,7 +52,11 @@ I specialize in building robust Android applications using <strong>Java</strong>
 ### [IMTrade](https://play.google.com/store/apps/details?id=com.microlinks.IMTrade) | <span style="vertical-align: middle; font-size: smaller;">(Softech Systems (Pvt) Ltd.)</span>
 - **Role:** Android Developer
 
-- **Technologies:** <span style="vertical-align: middle;">![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)</span> <span style="vertical-align: middle;">![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)</span> <span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)</span>
+- **Technologies:**
+  <span style="vertical-align: middle;">![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)</span>
 
 - **Features:**
   - Live Market Watch feature.
@@ -83,7 +87,11 @@ I specialize in building robust Android applications using <strong>Java</strong>
 ### [UzTrip](https://play.google.com/store/apps/details?id=com.uztrip.application) | <span style="vertical-align: middle; font-size: smaller;">(Avicenna Enterprise Solutions)</span>
 - **Role:** Android Developer
 
-- **Technologies:** <span style="vertical-align: middle;">![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)</span> <span style="vertical-align: middle;">![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)</span> <span style="vertical-align: middle;">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)</span>
+- **Technologies:**
+  <span style="vertical-align: middle;">![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)</span>
+  <span style="vertical-align: middle;">![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)</span>
+  <span style="vertical-align: middle;">![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=google-maps&logoColor=white)</span>
+  <span style="vertical-align: middle;">![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?logo=amazon-aws&logoColor=white)</span>
 
 - **Features:**
   - Social media platform similar to Facebook.
