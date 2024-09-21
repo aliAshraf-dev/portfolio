@@ -26,7 +26,7 @@
 
 #### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
   <img src="assets/img/ogow_1.webp" alt="Screenshot 1" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/ogow_2.webp" alt="Screenshot 2" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/ogow_3.webp" alt="Screenshot 3" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
@@ -63,7 +63,7 @@
   <img src="assets/img/contestant_4.webp" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/contestant_5.webp" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
   <img src="assets/img/contestant_6.webp" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/contestant_7.webp" alt="Screenshot 5" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/contestant_8.webp" alt="Screenshot 6" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
@@ -98,7 +98,7 @@
   <img src="assets/img/imTrade_2.webp" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/imTrade_3.webp" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
   <img src="assets/img/imTrade_4.webp" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/imTrade_5.webp" alt="Screenshot 5" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/imTrade_6.webp" alt="Screenshot 6" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
@@ -133,7 +133,7 @@
   <img src="assets/img/uzTrip_2.webp" alt="Screenshot 2" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/uzTrip_3.webp" alt="Screenshot 3" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
   <img src="assets/img/uzTrip_4.webp" alt="Screenshot 4" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/uzTrip_5.webp" alt="Screenshot 5" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/uzTrip_6.webp" alt="Screenshot 6" style="width: 30%; border: 1px solid #ccc; border-radius: 5px;">
