@@ -27,10 +27,10 @@
 #### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
 <div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
-  <img src="assets/img/ogow_1.webp" alt="Screenshot 1" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="assets/img/ogow_2.webp" alt="Screenshot 2" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="assets/img/ogow_3.webp" alt="Screenshot 3" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="assets/img/ogow_4.webp" alt="Screenshot 4" style="width: 22%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/ogow_1.webp" alt="Screenshot 1" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/ogow_2.webp" alt="Screenshot 2" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/ogow_3.webp" alt="Screenshot 3" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
+  <img src="assets/img/ogow_4.webp" alt="Screenshot 4" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
 
