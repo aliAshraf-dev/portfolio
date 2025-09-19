@@ -24,10 +24,9 @@
   - Offline functionality with Room Database for faster access and reliability.
 
 - **Challenges & Solutions:**
-  - Health data integration: Connected multiple data types from Health Connect to enable smarter habit suggestions.
-  - Cross-platform scheduling: Integrated Google Calendar events/tasks to ensure seamless habit-to-schedule mapping.
-  - Offline-first approach: Implemented Room Database caching to maintain usability in low-connectivity environments.
-  - User growth: Optimized app architecture with MVVM and Jetpack Compose to scale to 4,000+ users smoothly.
+  - Connected multiple data types from Health Connect to enable smarter habit suggestions.
+  - Integrated Google Calendar events/tasks to ensure seamless habit-to-schedule mapping.
+  - Implemented Room Database caching to maintain usability in low-connectivity environments.
 
 #### Screenshots:
 <div style="background-color: #f0f4f8; padding: 15px; border-radius: 5px; border: 1px solid #e0e0e0; margin-bottom: 30px;">
