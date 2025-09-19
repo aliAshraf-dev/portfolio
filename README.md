@@ -36,7 +36,6 @@
   <img src="assets/img/upticker_2.webp" alt="Screenshot 2" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/upticker_3.webp" alt="Screenshot 3" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
   <img src="assets/img/upticker_4.webp" alt="Screenshot 4" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
-  <img src="assets/img/upticker_4.webp" alt="Screenshot 4" style="width: 24%; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 </div>
 
